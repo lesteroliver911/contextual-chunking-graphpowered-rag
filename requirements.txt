@@ -1,0 +1,13 @@
+openai
+anthropic
+cohere
+networkx
+matplotlib
+langchain
+langchain-community
+pydantic
+rank_bm25
+scikit-learn
+tqdm
+faiss-cpu
+python-dotenv
