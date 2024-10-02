@@ -1,5 +1,5 @@
 
-# **Hybrid Document Search and Knowledge Graph with OpenAI and FAISS**
+# **Graph-Enhanced Hybrid Search: Contextual Chunking with OpenAI, FAISS and BM25**
 
 This repository implements a robust and highly accurate hybrid search engine that combines semantic vector-based search (using FAISS) and token-based search (using BM25) for document retrieval. It integrates a knowledge graph to enhance context expansion and ensure that users receive complete, contextually relevant answers to their queries. The system leverages advanced AI models such as OpenAI's GPT, Cohere re-ranking, and other tools to create a robust document processing pipeline.
 
