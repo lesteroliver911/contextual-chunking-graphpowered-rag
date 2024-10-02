@@ -52,7 +52,7 @@ This repository implements a robust and highly accurate hybrid search engine tha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hybrid-search-knowledge-graph.git
+   git clone https://github.com/lesteroliver/hybrid-search-knowledge-graph.git
    cd hybrid-search-knowledge-graph
    ```
 
