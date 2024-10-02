@@ -52,8 +52,8 @@ This repository implements a robust and highly accurate hybrid search engine tha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/lesteroliver911/hybrid-search-knowledge-graph.git
-   cd hybrid-search-knowledge-graph
+   git clone https://github.com/lesteroliver911/contextual-chunking-graphpowered-rag
+   cd contextual-chunking-graphpowered-rag
    ```
 
 2. Install the required Python dependencies:
